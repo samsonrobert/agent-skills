@@ -10,6 +10,8 @@ Agent Skills are folders of instructions, scripts, and resources that agents can
 Agents are increasingly capable, but often don’t have the context they need to do real work reliably. Skills solve this by giving agents access to procedural knowledge and company-, team-, and user-specific context they can load on demand. Agents with access to a set of skills can extend their capabilities based on the task they’re working on.
 
 **For skill authors**: Build capabilities once and deploy them across multiple agent products.
+
 **For compatible agents**: Support for skills lets end users give agents new capabilities out of the box.
+
 **For teams and enterprises**: Capture organizational knowledge in portable, version-controlled packages.
 
